@@ -1,3 +1,8 @@
+---
+description: Right shifts a register with a register or immediate value.
+---
+
+
 # SHR
 
 | Instruction | Operand 1 | Operand 2 | Description |
