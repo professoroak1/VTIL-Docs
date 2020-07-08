@@ -1,5 +1,5 @@
 ---
-description: XORs a register or immediate value to a register.
+description: XORs a register or immediate value on a register.
 ---
 
 
