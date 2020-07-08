@@ -1,6 +1,6 @@
 ---
 description: >-
-  Reverses the bits of a register.
+  Flips the bits of a register.
 ---
 
 # BNOT
