@@ -1,6 +1,6 @@
 ---
 description: >-
-  NOTs a register.
+  Reverses the bits of a register.
 ---
 
 # BNOT
