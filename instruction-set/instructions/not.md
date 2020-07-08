@@ -1,8 +1,13 @@
-# NOT
+---
+description: >-
+  NOTs a register.
+---
+
+# BNOT
 
 | Instruction | Operand 1 | Description |
 | :--- | :--- | :--- |
-| NOT | Reg | OP1 = ~OP1 |
+| BNOT | Reg | OP1 = ~OP1 |
 
 
 
