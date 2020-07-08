@@ -3,7 +3,7 @@ description: XORs a register or immediate value on a register.
 ---
 
 
-# XOR
+# BXOR
 
 | Instruction | Operand 1 | Operand 2 | Description |
 | :--- | :--- | :--- | :--- |
@@ -11,8 +11,6 @@ description: XORs a register or immediate value on a register.
 
 
 ```cpp
-// Creates a temporary register and loads [REG_SP+0] into it.
-auto value = block->tmp(8);
-block->ldd(value, REG_SP, 0);
+block->bxor(value, REG_SP, 1);
 ```
 
